@@ -1,0 +1,29 @@
+Naming Shapes Experiment
+
+Summary:
+
+This project aims to uncover any systematic trends in sound choice at the generative level of participant name/shape matching. The experiment presents hand-drawn shapes (with strict rules/properties) to participants and records the names they assign to each one. 
+
+Do round shapes tend to receive rounded sounds in their names more frequently? Is there an extra T, K , or P for every spike on a pointy shape?
+
+The experiment will explore sound symbolism, a generative Bouba/Kiki effect, and the relationship between phonology and visual perception. 
+
+Main Files:
+
+"naming_shapes.py" : runs the experiment and saves participant responses
+"text_naming_shapes.py" : checks and tests the sound categorization logic
+"stimuli/" or.. "shapes/" : Folder that contains all the image files of the hand-drawn abstract shapes.
+"results.csv" : File containing participant responses. 
+
+Planned Functions:
+
+"load shapes()" : loads stimuli/shape image files
+"collect_response()" : records typed participant names
+"categorize_sounds()" : counts the sound categories in participant responses
+"save_results()" : saves data to CSV
+"main()" : runs the full experiment
+
+Potential uses:
+
+For right now, the experiment design is focused on finding trends in sounds chosen for two specific properties, "jaggedness," and "softness," but one could imagine modifying the experiment to look for potential sound symbolism trends in other geometric properties like "straightness" "largeness vs smallness" "width vs height." How far can abstract sound/shape associations go?
+
