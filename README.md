@@ -1,4 +1,4 @@
-# bcog200-finalproject
+# bcog200-naming_shapes_project
 
 In 1916 the principle of the arbitrariness of the sign first appeared in the foundational work of the Swiss linguist/philosopher, Ferdinand de Saussure in "Cours de linguistique générale."The principle states that there is no inherent/natural connection between words and what they signify, so their relationship is arbitrary. Then, in 1929, Wolfgang Köhler, a German psychologist, described the phenomenon we commonly know as the "Bouba Kiki effect." The modern version of the experiment observes a statistically significant number of people name the softer/rounded looking objects as "bouba," and the sharp/jagged looking shapes with "kiki." Then add onomatopoeia, with words like "POW," "buzz," and "woof," and we begin to see a pattern. So is the link really that arbitrary?
 
